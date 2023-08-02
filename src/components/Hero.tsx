@@ -1,4 +1,3 @@
-import React from 'react'
 import Illustration from '../assets/illustration-intro.svg';
 
 

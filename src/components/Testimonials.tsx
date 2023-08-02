@@ -1,4 +1,3 @@
-import React from 'react'
 import Anisha from '../assets/avatar-anisha.png';
 import Ali from '../assets/avatar-ali.png';
 import Richard from '../assets/avatar-richard.png';
@@ -29,7 +28,7 @@ const Testimonials = () => {
                 <div className='hidden flex-col items-center p-6 space-y-6
                 rounded-lg bg-veryLightGray md:flex md:w-1/3'>
                     <img src={Ali} alt="" className="w-16 -mt-14"/>
-                    <h5 className='text-lg font-bold'>ALi Bravo</h5>
+                    <h5 className='text-lg font-bold'>Ali Bravo</h5>
                     <p className='text-sm text-darkGrayishBlue'>
                         "We have been able to cancel so many other subscriptions
                         since using Manage. There is no more cross-channel confusion 
